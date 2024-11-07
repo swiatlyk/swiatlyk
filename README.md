@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swiatlyk
-- 👀 I’m interested in testinh UI, Android apps, Kotlin and C#
-- 🌱 I’m currently learning Kotlin, C#
+- 👀 I’m interested in testinh UI, Android and IOS apps, Kotlin and Swift
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
